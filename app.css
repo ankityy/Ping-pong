@@ -1,0 +1,32 @@
+.card{
+    margin: 10px auto 0; 
+    width: 30rem;
+    max-width: 100%;
+}
+
+.game{
+    display: flex;
+    flex-direction: column;  
+}
+
+.btn-danger{
+    padding-left: 2.5rem;
+    padding-right: 2.6rem;
+}
+
+.content{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.card-text{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+@media(max-width: 517px){
+    .button{
+        flex-direction: column;
+        
+    }
+}
