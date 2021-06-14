@@ -1,12 +1,12 @@
 .card{
     margin: 10px auto 0; 
     width: 30rem;
-    max-width: 100%;
+    max-width: 90%;
 }
 
-.game{
+.button{
     display: flex;
-    flex-direction: column;  
+    
 }
 
 .btn-danger{
